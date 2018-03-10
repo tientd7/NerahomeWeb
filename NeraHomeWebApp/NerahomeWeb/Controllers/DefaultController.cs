@@ -6,12 +6,12 @@ using System.Web.Mvc;
 
 namespace NerahomeWeb.Controllers
 {
-    public class HomeController : Controller
+    public class DefaultController : Controller
     {
+        // GET: Default
         public ActionResult Index()
         {
             return View();
         }
-
     }
 }
