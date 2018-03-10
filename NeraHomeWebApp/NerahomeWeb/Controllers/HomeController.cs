@@ -12,34 +12,12 @@ namespace NerahomeWeb.Controllers
         {
             return View();
         }
-
-      
-
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
-        }
-
         public ActionResult About()
         {
-            ViewBag.Message = "Your contact page.";
-
             return View();
         }
-
-        public ActionResult Tesst()
+        public ActionResult News()
         {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
-        }
-
-        public ActionResult Tesest()
-        {
-
-            ViewBag.Message = "testtttt p33";
             return View();
         }
     }

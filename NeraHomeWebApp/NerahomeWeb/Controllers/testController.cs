@@ -9,7 +9,6 @@ namespace NerahomeWeb.Controllers
     public class testController : Controller
     {
         // GET: test
-        //testttt
         public ActionResult Index()
         {
             return View();
