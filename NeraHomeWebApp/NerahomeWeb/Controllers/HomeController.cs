@@ -35,5 +35,12 @@ namespace NerahomeWeb.Controllers
 
             return View();
         }
+
+        public ActionResult Tesest()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
     }
 }
