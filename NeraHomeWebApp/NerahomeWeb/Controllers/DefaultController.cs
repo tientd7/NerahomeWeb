@@ -11,6 +11,7 @@ namespace NerahomeWeb.Controllers
         // GET: Default
         public ActionResult Index()
         {
+            //test
             return View();
         }
     }
