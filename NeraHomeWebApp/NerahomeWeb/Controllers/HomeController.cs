@@ -21,5 +21,19 @@ namespace NerahomeWeb.Controllers
 
             return View();
         }
+
+        public ActionResult About()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
+
+        public ActionResult Tesst()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
     }
 }
