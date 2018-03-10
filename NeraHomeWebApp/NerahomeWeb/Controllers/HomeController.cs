@@ -38,7 +38,7 @@ namespace NerahomeWeb.Controllers
 
         public ActionResult Tesest()
         {
-            ViewBag.Message = "ókdfsdfsd.";
+            ViewBag.Message = "Hello world!";
 
             return View();
         }
