@@ -38,8 +38,8 @@ namespace NerahomeWeb.Controllers
 
         public ActionResult Tesest()
         {
-           
 
+            ViewBag.Message = "lại phải ok";
             return View();
         }
     }
