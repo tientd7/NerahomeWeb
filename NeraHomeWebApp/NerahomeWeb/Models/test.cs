@@ -5,9 +5,7 @@ using System.Web;
 
 namespace NerahomeWeb.Models
 {
-    public class Admin
+    public class test
     {
-        //test
-
     }
 }
