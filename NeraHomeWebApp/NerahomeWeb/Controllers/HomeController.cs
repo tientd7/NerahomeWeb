@@ -18,6 +18,7 @@ namespace NerahomeWeb.Controllers
         }
         public ActionResult News()
         {
+          
             return View();
         }
        
