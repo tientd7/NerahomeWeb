@@ -175,6 +175,7 @@
     <Content Include="Content\fonts\flaticon\flaticon.svg" />
     <Content Include="Content\fonts\fontawesome\fontawesome-webfont.svg" />
     <Content Include="Content\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="DB\NerahomeWebDB_Script.sql" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -226,6 +227,7 @@
     <Content Include="Content\fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Content\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="Content\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="DB\NeraHomeWeb.bak" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\Homepagejs.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
